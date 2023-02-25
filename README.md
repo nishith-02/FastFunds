@@ -15,7 +15,7 @@ the borrower requests a loan to the lender, then the lender can verify those doc
 A Lender can be benifitted by earning a side hussle income and , a borrower can get instant loans 
 and also as this is a p2p lending application, small amount of loans can also be requested.
 
-<img align="right" width="500" height="200" title="ParkCapsule" src="https://github.com/nishith-02/FastFunds/blob/main/fastfunds_frontend/public/logo.jpeg"/>
+<img align="right" width="300" height="200" title="ParkCapsule" src="https://github.com/nishith-02/FastFunds/blob/main/fastfunds_frontend/public/logo.jpeg"/>
 
 ## Features
 

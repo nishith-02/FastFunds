@@ -1,0 +1,26 @@
+.modal{
+    background-color: #222222 !important;
+    width:20rem;
+    min-height: 20rem;
+}
+.input{
+    background-color: white !important;
+    width:17rem;
+    padding-left:0.5rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    border: none;
+}
+.input:focus{
+    outline: none;
+}
+.button{
+    background-color: #366FD1;
+    width:8rem;
+    height: 2.5rem;
+    border: none;
+    color:#fff;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 0.2rem;
+}

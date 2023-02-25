@@ -1,0 +1,77 @@
+.profile {
+
+    margin-top: 8%;
+}
+.col1 {
+    display: flex;
+}
+.row1 {
+    background-color: #E2E2E2;
+    margin-bottom: 4rem;
+    padding: 1rem;
+}
+.avatar {
+    width: 40%;
+    border: solid #366FD1 4px;
+    border-radius: 100%;
+    margin-right: 1rem;
+}
+.row2 {
+    background-color: #366FD1;
+    color: #fff;
+    padding: 1rem;
+}
+.edit {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin-top: 3%;
+    height: fit-content;
+    color: #fff;
+    cursor: pointer;
+}
+.edit_btn {
+    background-color: #366FD1;
+    border-radius: 6px;
+    width: 4.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.bankdetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.file {
+    display: none;
+    margin-left: 0.5rem;
+}
+.filelabel {
+    color: #fff;
+}
+.col {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+.amt {
+    margin-bottom: 0.5rem;
+    width: 15rem;
+}
+.btn {
+width: fit-content !important;
+margin: auto;
+border-radius: 10px;
+border: none;
+}

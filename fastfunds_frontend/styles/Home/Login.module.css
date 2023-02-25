@@ -1,0 +1,59 @@
+.modal {
+    background-color: #222222 !important;
+    color: #fff;
+}
+.root{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #222222;
+}
+.head{
+    margin-top: 0.5rem;
+}
+.headtext{
+    font-size: 35px;
+    color: #fff;
+}
+.input{
+    display: block;
+    height:3rem;
+    width:25rem;
+    background-color: #fff;
+    color:black;
+    padding: 1rem;
+}
+.input:focus{
+    outline:none
+}
+.part{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.forgot{
+    cursor: pointer;
+}
+.button{
+    background-color: #366FD1;
+    width:25rem;
+    height: 3rem;
+    border: none;
+    color:#fff;
+    font-weight: 700;
+    font-size: 20px;
+}
+.need{
+    margin-top: 1rem;
+}
+.ns{
+    font-size: large;
+}
+.error{
+    background-color: #FFBABA;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    height:2rem;
+    color:#D8000C
+}

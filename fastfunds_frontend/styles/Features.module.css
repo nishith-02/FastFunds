@@ -1,0 +1,14 @@
+.features {
+    margin-top: 8%;
+    min-height: 100vh;
+    max-width: 100vw;
+}
+.donate {
+    margin-top: -75px;
+}
+.features__row {
+    margin-bottom: 1%;
+}
+.img {
+    cursor: pointer;
+}
